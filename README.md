@@ -5,19 +5,19 @@
 ## One-by-one commands
 
 ```bash
-curl -LO https://raw.githubusercontent.com/REPLACE_WITH_YOUR_GITHUB_USERNAME/gsp920-cloudsql-lab/main/01-create-cmek-instance.sh
+curl -LO https://raw.githubusercontent.com/kidsfun62890-ship-it/gsp920-cloudsql-lab/main/01-create-cmek-instance.sh
 chmod +x 01-create-cmek-instance.sh
 ./01-create-cmek-instance.sh
 ```
 
 ```bash
-curl -LO https://raw.githubusercontent.com/REPLACE_WITH_YOUR_GITHUB_USERNAME/gsp920-cloudsql-lab/main/02-enable-audit-and-load-data.sh
+curl -LO https://raw.githubusercontent.com/kidsfun62890-ship-it/gsp920-cloudsql-lab/main/02-enable-audit-and-load-data.sh
 chmod +x 02-enable-audit-and-load-data.sh
 ./02-enable-audit-and-load-data.sh
 ```
 
 ```bash
-curl -LO https://raw.githubusercontent.com/REPLACE_WITH_YOUR_GITHUB_USERNAME/gsp920-cloudsql-lab/main/03-configure-iam-db-user.sh
+curl -LO https://raw.githubusercontent.com/kidsfun62890-ship-it/gsp920-cloudsql-lab/main/03-configure-iam-db-user.sh
 chmod +x 03-configure-iam-db-user.sh
 ./03-configure-iam-db-user.sh
 ```
